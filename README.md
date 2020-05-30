@@ -2,7 +2,7 @@ This fork reads text from url query parameter `text`.
 
 This allows to integrate the reader with qutebrowser.
 
-#Userscript installation
+# Userscript installation
 
 1. Clone this repo
 2. run `grunt dist` in `grunt/`
@@ -42,7 +42,7 @@ Suppose the file above is called `speed_reader`
 :spawn --userscript speed_reader
 ```
 
----
+
 
 ---
 
