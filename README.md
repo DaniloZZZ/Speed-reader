@@ -1,6 +1,6 @@
 This fork reads text from url query parameter `text`.
 
-This allows to integrate the reader with qutebrowser.
+This allows to integrate the reader with [qutebrowser](https://www.qutebrowser.org/index.html).
 
 # Userscript installation
 
@@ -11,7 +11,7 @@ This allows to integrate the reader with qutebrowser.
 
 The userscript for qutebrowser:
 
-```
+```python
 #!/usr/bin/python
 
 import codecs, os
